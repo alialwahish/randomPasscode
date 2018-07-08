@@ -1,0 +1,23 @@
+﻿
+<h1>Generate New Passcode (Passcode#@ViewBag.num)</h1>
+<p>@ViewBag.s</p>
+
+
+<a href="/inc"> <button id="btn" >Generate</button></a>
+<script>
+ $(document).ready(function(){
+    $("#btn").click(function(){
+    
+        
+    var text = "";
+    var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+
+
+  for (var i = 0; i < 14; i++)
+    text += possible.charAt(Math.floor(Math.random() * possible.length));
+    
+    $(".p").text(text);
+    });
+});
+
+</script>

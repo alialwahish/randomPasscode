@@ -1,0 +1,11 @@
+/home/ali/codingDojo/c#/gnrtRandPasscode/bin/Debug/netcoreapp2.0/gnrtRandPasscode.deps.json
+/home/ali/codingDojo/c#/gnrtRandPasscode/bin/Debug/netcoreapp2.0/gnrtRandPasscode.runtimeconfig.json
+/home/ali/codingDojo/c#/gnrtRandPasscode/bin/Debug/netcoreapp2.0/gnrtRandPasscode.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/gnrtRandPasscode/bin/Debug/netcoreapp2.0/gnrtRandPasscode.dll
+/home/ali/codingDojo/c#/gnrtRandPasscode/bin/Debug/netcoreapp2.0/gnrtRandPasscode.pdb
+/home/ali/codingDojo/c#/gnrtRandPasscode/obj/Debug/netcoreapp2.0/gnrtRandPasscode.csprojResolveAssemblyReference.cache
+/home/ali/codingDojo/c#/gnrtRandPasscode/obj/Debug/netcoreapp2.0/gnrtRandPasscode.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/gnrtRandPasscode/obj/Debug/netcoreapp2.0/gnrtRandPasscode.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/gnrtRandPasscode/obj/Debug/netcoreapp2.0/gnrtRandPasscode.AssemblyInfo.cs
+/home/ali/codingDojo/c#/gnrtRandPasscode/obj/Debug/netcoreapp2.0/gnrtRandPasscode.dll
+/home/ali/codingDojo/c#/gnrtRandPasscode/obj/Debug/netcoreapp2.0/gnrtRandPasscode.pdb
